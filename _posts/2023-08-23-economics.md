@@ -5,9 +5,6 @@ tags:
   - economics
 ---
 
-## 경제학
-
-
 * 거시경제학
 
     경기후퇴 (recession)
