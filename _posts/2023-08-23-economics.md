@@ -1,9 +1,11 @@
 ---
-title: 경제학
+title: note - 경제학
 layout: post
 tags:
   - economics
 ---
+
+훝고 가는 경제학 이론의 일부
 
 * 거시경제학
 
