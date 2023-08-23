@@ -1,7 +1,7 @@
 markdown: kramdown
 highlighter: pygments
 permalink: /:year/:month/:day/:title.html
-name: "tooofu"
+name: "Jung Research"
 
 author: "1024.ding@gmail.com"
 atom-baseurl: ""
