@@ -1,10 +1,11 @@
 ---
-title: 사계절 이론
+title: 사계절 이론 note
 layout: post
 tags:
   - note
   - economics
   - macroeconomics
+
 ---
 
 ### 사계절 이론 - 우라가미 구니오
@@ -16,33 +17,15 @@ tags:
 정부의 통화정책(monetary policy)[2] 인 금리 조정으로 시장에 유동성을 불어 넣는 등, 시장경제에 직접 영향을 행사한다.
 
 * keyword
+  * 금융장세
+  * 실적장세
+  * 역금융장세
 
-aaaa
-
-    * 금융장세
-
-    * 실적장세
-
-    * 역금융장세
-
-    * 역실적장세
-
-bbbb
 
 * keyword
 
-aaaa
-
-    * 금융장세
-
-    aaa
-
-    * 실적장세
-
-    bbbb
-
-ccc
-
+  * 금융장세
+  * 실적장세
 
 ### 금융장세
 
