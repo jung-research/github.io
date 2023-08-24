@@ -7,58 +7,27 @@ tags:
   - macroeconomics
 
 ---
+「」
 
-**사계절 이론**은 「우라가미 구니오」가 xxxx 에서 xxxx 만든 / 제출한 경제학에서 [거시경제학(macroeconomics, 宏观经济学)](/2023/08/23/economics.html#macroeconomics) 에 가까운 이론이다
+**사계절 이론**은 「우라가미 구니오」(ウラガミ クニオ, 浦上邦雄) 의 저자 「相場サイクルの見分け方」에서 처음으로 언급되었고
+[거시경제학(macroeconomics, 宏观经济学)](/2023/08/23/economics.html#macroeconomics) 이론에 맞물린다.
 
-보이지 않는 손(invisible hand, Adam Smith) 시장 흐름에 개입하지 않는, 가격에 의해 자동으로 유지하는 이론과 달리 정부의 [통화정책(monetary policy)](/2023/08/23/economics.html#monetary-policy) 으로 시장에 
-유동성을 불어 넣는 등, 시장경제에 직접 영향을 행사한다.
 
-* keyword
-  * 금융장세
-  * 실적장세
-  * 역금융장세
+보이지 않는 손(invisible hand, Adam Smith) 시장 흐름에 개입하지 않는, 가격에 의해 자동으로 균형을 유지하는 이론과 달리 정부의
+[통화정책(monetary policy)](/2023/08/23/economics.html#monetary-policy) 등으로 시장에 유동성을 불어 넣는 등 직접 영향을 행사한다.
 
-aaaaa
-
-bbbb
-
-* keyword
-
-    정부의 통화정책(monetary policy)[2] 인 금리 조정으로 시장에 유동성을 불어 넣는 등, 시장경제에 직접 영향을 행사한다.
-
-  * 금융장세
-
-      정부의 통화정책(monetary policy)[2] 인 금리 조정으로 시장에 유동성을 불어 넣는 등, 시장경제에 직접 영향을 행사한다.
-
-  * 실적장세
-
-    정부의 통화정책(monetary policy)[2] 인 금리 조정으로 시장에 유동성을 불어 넣는 등, 시장경제에 직접 영향을 행사한다.
-
-  * 금융장세
-
-      정부의 통화정책(monetary policy)[2] 인 금리 조정으로 시장에 유동성을 불어 넣는 등, 시장경제에 직접 영향을 행사한다.
-
-bbbb
-
-ccc
+* 금융장세
+* 실적장세
+* 역금융장세
+* 역실적장세
 
 ### 금융장세
 
-* keyword
-
-  * 금융장세
-
-  * 실적장세
-
-  * 역금융장세
-
-  * 역실적장세
-
-what:
+* what:
 
     어둡고 긴 경기 상황에서 벗어나 서서히 경기 회복의 신호를 알리는 시점.
 
-when:
+* when:
 
     나빠진 경기가 더 이상 민간에서 자발적인 회복을 기대할 수 없는 상황까지 이를렀을 때
 
