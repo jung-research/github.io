@@ -24,7 +24,8 @@ layout: default
     </section>
     <section class="post">
     <!-- {{ post.content }} -->
-    {% assign lines = post.content | split: '\n' %}
+    <!-- {% assign lines = post.content | split:"\r\n" %} -->
+    {% assign lines = page.content | split: site.excerpt_separator %}
     {% for line in lines limit:12 offset:0 %}
       {{ line }}
     {% endfor %}
