@@ -23,7 +23,11 @@ layout: default
     {% endif %}
     </section>
     <section class="post">
-    {{ post.content[:12] }}
+    <!-- {{ post.content }} -->
+    {% assign lines = post.content | split: '\n' %}
+    {% for line in lines limit:12 offset:0 %}
+      {{ line }}
+    {% endfor %}
     </section>
     </article>
   {% break %}
