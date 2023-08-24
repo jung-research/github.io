@@ -23,7 +23,7 @@ layout: default
     {% endif %}
     </section>
     <section class="post">
-    {{ post.content }}
+    {{ post.content[:12] }}
     </section>
     </article>
   {% break %}
