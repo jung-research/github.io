@@ -8,13 +8,15 @@ tags:
 
 ---
 
-### 사계절 이론 - 우라가미 구니오
+### 사계절 이론
 
-경제학에서 거시경제학(macroeconomics, 宏观经济学)[1] 에 가까운 이론이다
+    - 우라가미 구니오
+
+경제학에서 [거시경제학(macroeconomics, 宏观经济学)](/2023/08/23/economics.html#macroeconomics) 에 가까운 이론이다
 
 보이지 않는 손(invisible hand, Adam Smith) 시장 흐름에 개입하지 않는, 가격에 의해 자동으로 유지하는 이론과 달리
 
-정부의 통화정책(monetary policy)[2] 인 금리 조정으로 시장에 유동성을 불어 넣는 등, 시장경제에 직접 영향을 행사한다.
+정부의 [통화정책(monetary policy)](/2023/08/23/economics.html#monetary_policy) 인 금리 조정으로 시장에 유동성을 불어 넣는 등, 시장경제에 직접 영향을 행사한다.
 
 * keyword
   * 금융장세

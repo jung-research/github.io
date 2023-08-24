@@ -8,21 +8,30 @@ tags:
 
 훓고 가는 경제학 이론의 일부
 
-### I. 거시경제학 vs 미시경제학
+* I. 거시경제학 vs 미시경제학
 
-#### a. 거시경제학(macroeconomics)
+### macroeconomics
+
+거시경제학(macroeconomics) 에는 아래와 같은 키워드
 
 * 경기후퇴 (recession)
-
-금융위기, 무역 축소, 경제 버블의 붕괴, 대규모 자연재해, 팬더믹(pandemic)과 같은 질병의 유행 등이 일으키는 
-부정적인 수요충격이 원인이다.
-
 * 디플레이션(depression)
 * 경제성장
 * 이자
 * 통화
 * 중앙은행
 * ...
+
+#### recession
+
+경기후퇴(recession)는 금융위기, 무역 축소, 경제 버블의 붕괴, 대규모 자연재해, 팬더믹(pandemic)과 같은 질병의 유행 등이
+일으키는 부정적인 수요충격이 원인이다.
+
+#### monetary policy
+
+통화정책(monetary policy)은 금리 조정으로 시장에 유동성을 불어 넣는 등, 시장경제에 직접 영향을 행사한다.
+
+TODO
 
 #### b. 미시경제학(microeconomics)
 
