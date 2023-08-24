@@ -23,10 +23,7 @@ layout: default
     {% endif %}
     </section>
     <section class="post">
-    {% assign lines = page.content | markdownify | split:"\n" %}
-    {% for line in lines limit:12 offset:0 %}
-      {{ line }}
-    {% endfor %}
+    {{ post.content }}
     </section>
     </article>
   {% break %}
