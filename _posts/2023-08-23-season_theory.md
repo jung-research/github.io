@@ -35,22 +35,13 @@ tags:
 
 ---
 
-| 경기순환     | 침체기   | :   회복기   : || 
+| 경기순환     | 침체기   | 회   | 복기     | 
+| :--:|:--:|--:|:--|
 | 주식시장순환 | 금융장세 | 조정 | 실적장세 |
 | :--:|:--:|:--:|:--:|
 | 금리 | ↓ | → | ↗ |
 
 ---
-
-|              Stage | Direct Products | ATP Yields |
-| -----------------: | --------------: | ---------: |
-|         Glycolysis |          2 ATP              ||
-| ^^                 |          2 NADH |   3--5 ATP |
-| Pyruvaye oxidation |          2 NADH |      5 ATP |
-|  Citric acid cycle |          2 ATP              ||
-| ^^                 |          6 NADH |     15 ATP |
-| ^^                 |          2 FADH |      3 ATP |
-|                               30--32 ATP        |||
 
 
 ## 금융장세
