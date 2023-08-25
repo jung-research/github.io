@@ -148,10 +148,19 @@ ul.listing {
         color: #ccc; }
 
 table{
-  border-collapse:collapse;}
+  border-collapse:collapse;
+  border-spacing: 0;
+  empty-cells: show;
+  border: 1px solid #cbcbcb;}
 
 table, th, td{
-  border: 1px solid black;}
+  border: 1px solid #cbcbcb;
+  /* border-left: 1px solid #cbcbcb; */
+  /* border-width: 0 0 0 1px; */
+  font-size: inherit;
+  margin: 0;
+  overflow: visible;
+  padding: .5em 1em;}
 
 article {
   margin: 2em 0; }
