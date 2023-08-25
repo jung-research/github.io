@@ -147,6 +147,12 @@ ul.listing {
         content: "⭠ ";
         color: #ccc; }
 
+table{
+  border-collapse:collapse;}
+
+table, th, td{
+  border: 1px solid black;}
+
 article {
   margin: 2em 0; }
   article p {
