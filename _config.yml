@@ -9,6 +9,10 @@ atom-baseurl: ""
 plugins:
   - jekyll-spaceship
 
+jekyll-spaceship:
+  processors:
+    - table-processor
+
 navigations:
   - title: Archive
     class: fa fa-list-ul
