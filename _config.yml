@@ -6,6 +6,9 @@ name: "Jung Research"
 author: "1024.ding@gmail.com"
 atom-baseurl: ""
 
+plugins:
+  - jekyll-spaceship
+
 navigations:
   - title: Archive
     class: fa fa-list-ul
