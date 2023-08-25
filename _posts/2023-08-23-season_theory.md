@@ -32,6 +32,14 @@ tags:
 | Footer row      |            |                 |                |
 |-----------------+------------+-----------------+----------------|
 
+aaa
+
+| Left columns  | Right columns |
+| ------------- |:-------------:|
+| left foo      | right foo     |
+| left bar      | right bar     |
+| left baz      | right baz     |
+
 ## 금융장세
 
 * what
