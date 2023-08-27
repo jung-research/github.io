@@ -31,7 +31,7 @@ CMA (cash management account) 는 ... 을 가르킨다.
 
 ### SOC
 
-SOC (social overhead capital) 는 ... 을 가르킨다.
+사회간접자본(SOC, social overhead capital) 은 도로, 항만과 같은 국가 기간망 뿐만아니라 박물관, 미술관, 관광단지 같은 시설도 포함된다
 
 ### peg system
 
