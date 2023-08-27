@@ -9,19 +9,29 @@ tags:
 
 ## noun
 
-### 금리
+### interest rate
 
 금리(interest rate) 
 
-### 이자
+### interest
 
-### 명목금리
+이자(interest)
+
+### nomial interest rate
 
 명목금리(nominal interest rate) = 실질금리(real interest rate) + 기대인플레이션율(expected inflation)
 
 ### MMF
 
-MMF(Money Market Funds) 는 ... 을 가르킨다.
+MMF(money market funds) 는 ... 을 가르킨다.
+
+### CMA
+
+CMA (cash management account) 는 ... 을 가르킨다.
+
+### SOC
+
+SOC (social overhead capital) 는 ... 을 가르킨다.
 
 ## Q
 
