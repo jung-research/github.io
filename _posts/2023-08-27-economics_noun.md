@@ -33,6 +33,12 @@ CMA (cash management account) 는 ... 을 가르킨다.
 
 사회간접자본(SOC, social overhead capital) 은 도로, 항만과 같은 국가 기간망 뿐만아니라 박물관, 미술관, 관광단지 같은 시설도 포함된다
 
+### inflation
+
+인플레이션(inflation)은 거시경제학에서 물가가 상승하는 현상을 일 컫는 말이다
+
+인프레이션은 (물가의 상승으로)생계비를 증가시키고 경제어 왜곡(distortion)을 이르킨다
+
 ### peg system
 
 페그제(peg system) 는 특정국가의 통화에 자국통화의 환율을 고정시키는 제도이다, 환율뿐만아니라 금리도 같이 움직인다
