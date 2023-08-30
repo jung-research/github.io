@@ -15,7 +15,7 @@ tags:
 
 ## macroeconomics
 
-거시경제학(macroeconomics) 에는 아래와 같은 키워드
+거시경제학(macroeconomics) 은 국민소득, 물가, 실업, 환율, 국제수지 등 실물경제에 미치는 변수와 상호관겨들이 미치는 영향이 주요 관심사다
 
 * 경기후퇴 (recession)
 * 디플레이션(depression)
@@ -32,11 +32,59 @@ tags:
 
 ### monetary policy
 
-통화정책(monetary policy)은 금리 조정으로 시장에 유동성을 불어 넣는 등, 시장경제에 직접 영향을 행사한다.
+통화정책(monetary policy) 또는 화페정책은 금리 조정으로 시장에 유동성을 불어 넣는 등, 시장경제에 직접 영향을 행사한다.
 
-TODO
+중앙은행(주체기관)이 한 국가의 화페공급, 유동성, 화페가치, 금리 등의 정책을 시행할 때, 경제 성장이나 안정성을 유지토록 하기 위해 수행하는 일련의 조치를 취한다
 
-## 미시경제학(microeconomics)
+통화의 수량을 늘리거나 줄여서 국내경제의 흐름을 통제하고 조절하려는 정책이다.
+
+1. 전통적인 통화정책    - 재할인율, 지급준비율 조정 등
+2. 비전통적인 통화정잭  - 양적 완화, 포워드 가이던스 등
+
+### QE
+
+양적완화(quantitative easing, QE) 는 중앙은행의 금리 인하를 통한 경기부양 정책이 효과가 한계에 도달했을 때 중앙은행이 
+국채 매입 등을 통해 유동성을 시중에 직접 푸는 정책을 뜻한다
+
+### market liquidity
+
+유동성(market liquidity) 은 경제학 개념으로 자산이나 채권을 손실 없이 현금으로 전환할 수 있는 정도를 나타낸다
+
+### monetary base control
+
+시중 통화량 조절(monetary base control)
+
+    장점: 선순환 구조
+
+        중앙은해이 화페제조 -> 시장에 화페가 많이 돌고 -> 국민들의 소비 패턴 상승 -> 남아도는 돈을 시장에 재투자
+
+    약점: 물가상승(인플레이션, [inflation](/2023/08/27/economics_noun.html#inflation))
+
+        물가상승(inflation) 의 반면 화페 가치의 하락이라고 볼 수 있다, 측정기준은 소비자 물가지수(CPI, Consumer price index) 가 있다
+
+### cpi
+
+소비자 물가지수(cpi, consumer price index) 는 국민의 생활 및 구매 패턴에 필수적으로 관여하는 물건들을 모아 basket 를 만들고 측정한다
+
+### fiscal policy
+
+재정정책(fiscal policy) 은 정부(주체기관)의 지출조절, 세금조절 등을 포함한다
+
+### government expenditure
+
+정부지출조절(government expenditure)
+
+정부지출을 늘리게되면 시장의 총수요는 상승하게 되고 정부지출을 줄이게되면 총수요는 감소하게 된다.
+
+### taxation control
+
+세금조절(taxation control)
+
+시장이 과열되면 높은 세금을 부과함으로써 시장을 컨트롤 할수도 있다.
+
+## microeconomics
+
+미시경제학(microeconomics) 은 생상량과 가격/수요와 공급 등 상품이 시장에서 이루어 지는 균형이 주요 관심사다.
 
 * 규모의 경제,
 * 수요와 공급,
