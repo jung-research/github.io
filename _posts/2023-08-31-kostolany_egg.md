@@ -9,28 +9,274 @@ tags:
 
 **달걀 모형**은 「앙드레 코스톨라니[^1]」가 평생 동안 실전 투자를 통해 배우고 느낀 점을 이론화 시킸다
 
-주식시장에 국한된 이론이 아니라 경제 전반에 걸쳐 금리에 따라 투자 대상이 어떻게 변하는지를 설명한다
+경기와 자산의 가격이 순환한다는 가정에 바탕한 모형이다
+
+주식시장에 제한햐여 분석하는 이론이 아니라 경제 전반에 걸쳐 금리에 따라 투자 대상이 어떻게 변하는지를 설명한다
 
 달걀 모형에 따르면 크게 은행예금, 채권, 부동산, 주식등 4가지의 투자 대상이 있는데, 금리의 변화에 투자자들이 선호하는
 투자대상이 달라지며 돈의 흐름을 이해할 수 있게 된다
 
 ![egg](/assets/2023-08-31-kostolany_egg/kostolany_egg__egg.jpg 'Translated and drawn by Nilla Chen'){:height="360px"}
 
-    A1 = Stock price correction; low volume, low number of stock owners 
-    A2 = Increasing stock prices; volume and number of stock owners are increasing 
-    A3 = Bubble prices; high volumes, high number of stock owners 
-    
-    B1 = Stock price correction; low volume, number of stock owners are slowly decreasing 
-    B2 = Decreasing stock prices; volume and number of stock owners are decreasing further 
-    B3 = Market crash prices; high volumes, low number of stock owners 
+A1 = Stock price correction; low volume, low number of stock owners
+A2 = Increasing stock prices; volume and number of stock owners are increasing
+A3 = Bubble prices; high volumes, high number of stock owners
+
+B1 = Stock price correction; low volume, number of stock owners are slowly decreasing
+B2 = Decreasing stock prices; volume and number of stock owners are decreasing further
+B3 = Market crash prices; high volumes, low number of stock owners
 
 We should buy during A1 and B3, hold our stock/money during A2 and B2, and sell during A3 and B1.
 
-Kostolany also in his book also says, when everybody (taxi driver, cleaner etc) around him owns stocks (X) that is the sign for him to sell, 
-and when nobody owns any stocks (Y) that is the sign to buy. So according to his theory the investor should watch the volume of retail investors 
+Kostolany also in his book also says, when everybody (taxi driver, cleaner etc) around him owns stocks (X) that is the sign for him to sell,
+and when nobody owns any stocks (Y) that is the sign to buy. So according to his theory the investor should watch the volume of retail investors
 stock trading and the general enthusiasm for stocks
 
+## A1
 
+* when
+
+  금리가 바닥을 찍고, 실물경기는 아직 나쁘지만 주식시장이 슬슬 오를 기미가 보이기 시작한다
+
+  TODO: 실물경기의 좋고 나쁨의 판단기준 방법 수치화와 체감으로 느끼는 어떠한 변화인가?
+
+* how
+
+  정부, 중앙은행은 경기 부양책을 제시 시작
+
+  TODO: 경기 부양책에 대해 예시, 대응되는 작용, 부작용에 대해 note
+
+* feature
+
+  1.  소신파는 투자자 매수
+  2.  부화뇌동파는 시장에 참여 못함
+
+## A2
+
+* when
+
+  기업은 실적을 회복하지 못한 상태이지만, 주가는 계속해서 올라간다
+
+* how
+
+  중앙은행과 정부의 경기부양책이 지속되고 시장은 호재에 쉽게 반응한다
+
+* feature
+
+  1.  이미 인하된 금리, 경기 부양책에 대한 기대감으로 주가는 오르는 상태
+
+  2.  신규 투자자들도 유입되기 시작하며 거래량도 오르고 주식 보유자수도 늘어나게 된다
+
+  3.  이떄의 투자자는 소신파와 부화 뇌 동파의 중간이라고 할 수 있다
+
+  4.  주식에 관심이 많은 사람들은 단기 매매로 수익을 올린 소식을 주변에 전하기도 한다
+
+  5.  은행에서는 펀드를 추천하며 새로 주식투자를 경험한 투자자들도 수익을 확인하게 된다
+
+  6.  서점의 베스트셀러 코너에는 경제, 주식 관련 서적이 늘어간다
+
+  TODO: 국내 서점의 베스트셀러 수치를 획득할수 있는 방법이 있는가?
+
+## A3
+
+* when
+
+  실물경기가 회복되어가며 과장 국면에 진입
+
+* how
+
+  정부와 중앙은행의 노력??에 의해 경기가 회복되며 주가도 상승한다
+
+* feature
+
+  1.  주가는 경기 회복에 대한 기대감으로 올라가 있는 상태에서 내려오지 않으며 기대감에 대한 실적이 공개되지만, 실적과 무관하게 과열되어 가격이 상승한다
+
+  2.  소신파 투자자는 매도를 시작한다
+
+  3.  주변에서 주식으로 돈을 벌었다는 소식이 자주 들린다
+
+  4.  주식시장에 참여하지 못한 부화뇌동파 투자자들도 거래에 참여하기 시작한다
+
+  5.  마지막 한방을 노리는 투자자들도 있다
+
+  6.  고점 부근까지 주가도 계속 상승하며 주식 보유자 수도 계속해서 늘어나게 된다
+
+## X
+
+* when
+
+  x(고점)에서 인플레이션에 대한 우려가 등장한다
+
+* how
+
+  경기부양책이 중단되고 주가는 고점을 맞이한다
+
+* feature
+
+  1.  이떄 주식을 가지고 있는 사람은 대부분 부화뇌동파 투자자이다, 주가는 이미 고점을 지났지만 자신들의 차례도 올 것이라고 믿고 주식을 보유한다
+
+  2.  고점을 지나 주식 가격은 과열로 인해 올랐던 만큼 하락하며 실적과 적합한 수준에 마추어 진다
+
+
+  TODO:
+
+    이러한 주기는 년단위로 이루지는 것이아나며, 몇년, 십년단위 일수도 있다.... 주가나 기업의가치나, 시장의 규모로 볼때..
+
+    스마트폰 시장이 시작했을떄, 애플이 출시했을때, 해마다 주가는 상승한다... 쭉...
+
+    금리나, 정부정책에 큰 변화없이..
+
+      a. 시장 점유시기,
+      b. 포화되여도(점유율을 유지가 되면 2-3년 바꾸어주는 주기), 규모에 따라 평가는 계속 된다
+      c. 회사에서 새로운 (ar 기기, 전기차, ...) 상품을 출시 새장을 찾을수도 있다 (아마존 같은)
+      d. nvidia( 독점시장에서, 성장성은, 구글/마이크로/아마존 써버로 접목하여 더 성장공간 모멘텀을 과시  )
+
+## B1
+
+* when
+
+  저금리와 유동성 증가로 인한 인플레이션 위험을 통제하기 시작한다
+
+* how
+
+  정부와 중앙은행이 금리인상과 테이퍼링을 시작한다
+
+* feature
+
+  1.  소신파는 더 이상 고평가 주식을 사지 않고 기다린다
+
+      TODO: 고평가 기준?? 반대 하락 매매가 있는가?? 可转债도 상승매매의 일부이다
+
+  2.  시장은 슬슬 하락하기 시작하며 새로운 유입이 없기에 약간의 매도로 시세가 바로 떨어진다
+
+  3.  A3 국면에서 뒤늦게 참가한 투자자들은 비 자발적인 장기투자를 하게 되다
+
+  4.  실물경기는 아직 좋은 상태라고 할 수 있으나, 자산 가격은 하락하기 시작 하였다
+
+## B2
+
+* when
+
+  시장의 유동성은 관리되고 있는 상태이나 큰 변화는 없음
+
+* feature
+
+  1. 주식시장의 보유자 수 감소와 반대 거래량이 소폭 늘어난다. 고점 부근에서 매입한 투자자들은 물타기를 하거나 못 견디고 매도
+
+  2. 기업의 실적이 고점을 지나 하락하기 시작한다
+
+  TODO: 재차 유동성이란??? 투자 사이클로 볼때, 투자의 애초 기본원리로 볼때 기업의 실적으로 배당?? 이자?? 수혜를 받을수 있음을,
+
+        주가의 하락은 기업의 전락실패로 과도한 설비확장등으로 초로하여, 일찍 주식을 매도하는게 맞다??
+
+        사고 팔아, 시세차이로 보면, 그 누군간 손해봐야하는데... 저축 + 이자의 관점으로 주가 * 주식 + 배당?? 이 관점으로 볼 수 있는가?
+
+## B3
+
+* when
+
+  실물경기 상황이 좋지 않고 시장에는 비관주의가 팽배한 상태이다
+
+* feature
+
+  1.  경제기사, 유트브, 리서치 모두 폭락을 경고하고 시세는 하락하낟
+
+  2.  서점의 베스트셀러 코너에는 자기 위안 위로 관련 서적이 늘어갑니다
+
+      TODO: 현재는, 서점보다, 커뮤니티, 블로그에서 주요 분위기??
+
+  3.  주식을 계속 매도로 가격 하락을 일으키고, 현물 가격의 하락은 선물 시장에 영향을 주어 추가적인 하락을 이르킨다
+
+      TODO:  현물 ? 선물 ?
+
+  4. 고점 부근에서 매수한 부화뇌동파 투자자는 가진 주식을 전부 매도하게 되고 주식 보유자는 감소하게 된다
+
+  5. 소신파 투자자는 이때부터 주식을 슬슬 매수하기 시작한다
+
+  6. 기관, 외국인 투자자의 매수가 종종 보인다
+
+## Y
+
+  이때 주식 보유자 수는 적습니다. 이미 주식 시세는 많이 떨어진 상태입니다. 저점 부근에서 A1 국면으로의 전환이 일어나기 직전이라고 할 수 있습니다.
+
+  이때는 소신파 투자자만 거래를 하며 저렴한 가격에 주식을 매집하는 상태입니다.
+
+---
+
+![egg_1](/assets/2023-08-31-kostolany_egg/kostolany_egg__egg_1.png){:height="360px"}![egg_2](/assets/2023-08-31-kostolany_egg/kostolany_egg__egg_2.png){:height="360px"}
+
+  x
+   a
+f   b
+e   c
+ d
+  y
+
+![cycle](/assets/2023-08-31-kostolany_egg/economic_cycle.jpg){:height="360px"}
+
+  x
+a3 b1
+a2 b2
+a1 b3
+  y
+
+
+
+D국면은
+
+  금리가 바닥을 찍는 순간으로 낮아진 대출금리로 인해 대출이 빠르게 증가한다. 이에 따라 시중에는 막대한 유동성이 풀리게 된다.
+  막대한 유동성은 자산시장으로 흘러 전반적인 가격 상승을 일으킨다.
+
+E국면은
+
+  D국면에서의 전반적인 자산 가격 상승으로 인해 부동산 가격이 많이 상승한 상황이다. 이에 따라 부동산을 매도하고 시세차익을 거두기 시작한다.
+  부동산 시장에서 빠져나온 자본은 주식시장으로 이동하기 시작한다. 해당 국면에서는 경기가 서서히 반등하고 높아진 부동산 가격과 인플레이션
+  등을 고려해 금리 인상에 대한 논의가 나타난다. 이때부터 시장의 실질금리가 상승하기 시작한다.
+
+F국면은
+
+  경기가 과열 형상을 띠고 각종 경제지표 역시 긍정적으로 발표된다. 이와 더불어 인플레이션이 사회적 문제로 떠오르고 정부는 인플레이션 해결을
+  위해 금리 인상을 실행하기 시작한다. 주식시장에는 가파른 상승세가 나타나고 이에 따라 주식시장에 거품이 생겨난다. 자본가들은 상승한 주식을
+  팔고 안전한 예금으로 갈아타기 시작한다.
+
+
+
+
+A국면은
+
+  금리가 정점을 찍는 시기로 대부분의 자본이 은행예금으로 향해 시중에는 유동성이 부족한 상태다. 
+
+  A국면에 이르면 시장은 서서히 경기 연착륙, 경착륙에 대한 논쟁이 붙기 시작하고 장기 금리가 하락하게 된다.
+
+  이에 따라 통화당국은 금리 인하를 고려하기 시작하고, 예금 투자자들은 가장 안전한 투자처를 잃어버리게 된다. 
+
+  결국 자본이 은행을 빠져나와 새로운 투자처를 찾기 시작한다.
+
+B국면은
+
+  금리가 서서히 하락하기 시작하는 단계로 그동안 보장받았던 안전 수익(예금이자)이 작아지기 시작한다. 이에 따라 자본은 수익성이 더 나은
+  안전자산을 찾아 나선다. 그 결과 예금보다는 불안하지만 그래도 비교적 안전하고 금리 인하에 영향을 받지 않는 채권에 투자하게 된다. 이에
+  따라 채권 가격이 상승하기 시작한다.
+
+C국면은
+
+  금리 하락이 가속화되고 금리가 바닥에 가까워질수록 문제가 시작된다. 자본가들은 투자한 채권을 되팔아 시세차익을 챙겼거나 만기 때 이자를
+  받아 수익을 챙긴 상황이다. 낮아진 금리와 이미 오를 대로 오른 채권가격으로 자본을 투자할 만한 곳이 없다.
+
+  이때 자본의 선택은 부동산이다. 부동산에서 시세차익을 보려는 것이 아니더라도 부동산 임대수익률이 적어도 이자율보다는 높기 때문이다. 결국
+  자본은 경기 침체로 인해 가격이 떨어져 있던 부동산으로 몰리기 시작한다. 이에 따라 부동산 가격이 상승하기 시작한다.
+
+
+
+
+A국면부터 F국면까지 앙드레코스톨라니 달걀 모형을 통한 경기 순환이론을 간략히 설명했다. 복잡한 변수 속에서 해당 모형이 실상과 정확히 일치한다고는
+볼 수 없다. 하지만 경기순환 이론을 이해하고 변형·적용하고 예측해 볼 수 있다.
+
+투자자와 그렇지 못한 투자자의 투자 판단은 분명 차이가 있을 것이다. 또한 앙드레코스톨라니 달걀 모형은 실전 투자를 통해 익힌 노하우를 이론화 시켰다는
+측면에서 실전 투자 선배의 진심어린 투자 조언으로 깊이 받아들여 볼 가치가 있다.
+
+
+    Q: 부동산을 투자 대상으로 볼때, 주기를 3년? 그이상이 아닌 단기 매매도 가능한가?
 
 
 [^1]: 「앙드레 코스톨라니」(André Kostolany, February 9, 1906 - September 14, 1999)
