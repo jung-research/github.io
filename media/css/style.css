@@ -184,9 +184,9 @@ article {
     max-width: 100%;
     display: block;
     margin: .5em auto; }
-  article .post .img-inline-h300 {
+  article .post .img-inline-h280 {
     display: inline;
-    height: 300px; }
+    height: 280px; }
   article .comment {
     margin: 3em 0; }
   article .divider {
