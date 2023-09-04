@@ -203,7 +203,7 @@ stock trading and the general enthusiasm for stocks
 
 ---
 
-![egg_1](/assets/2023-08-31-kostolany_egg/kostolany_egg__egg_1.png){:height="360px"}![egg_2](/assets/2023-08-31-kostolany_egg/kostolany_egg__egg_2.png){:height="360px"}
+![egg_1](/assets/2023-08-31-kostolany_egg/kostolany_egg__egg_1.png){:class="img-inline-h300"}![egg_2](/assets/2023-08-31-kostolany_egg/kostolany_egg__egg_2.png){:class="img-inline-h300"}
 
   x
    a
