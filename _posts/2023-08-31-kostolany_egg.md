@@ -38,13 +38,9 @@ stock trading and the general enthusiasm for stocks
 
   금리가 바닥을 찍고, 실물경기는 아직 나쁘지만 주식시장이 슬슬 오를 기미가 보이기 시작한다
 
-  TODO: 실물경기의 좋고 나쁨의 판단기준 방법 수치화와 체감으로 느끼는 어떠한 변화인가?
-
 * how
 
   정부, 중앙은행은 경기 부양책을 제시 시작
-
-  TODO: 경기 부양책에 대해 예시, 대응되는 작용, 부작용에 대해 note
 
 * feature
 
@@ -63,7 +59,7 @@ stock trading and the general enthusiasm for stocks
 
 * feature
 
-  1.  이미 인하된 금리, 경기 부양책에 대한 기대감으로 주가는 오르는 상태
+  1.  이미 인하된 금리, 경기부양책에 대한 기대감으로 주가는 오르는 상태
 
   2.  신규 투자자들도 유입되기 시작하며 거래량도 오르고 주식 보유자수도 늘어나게 된다
 
@@ -277,6 +273,8 @@ A국면부터 F국면까지 앙드레코스톨라니 달걀 모형을 통한 경
 
     Q: 부동산을 투자 대상으로 볼때, 주기를 3년? 그이상이 아닌 단기 매매도 가능한가?
 
+
+*[경기부양]: [경기부양(economic stimulus)이란?](/2023/08/30/economics_question.html#economic-stimulus))
 
 [^1]: 「앙드레 코스톨라니」(André Kostolany, February 9, 1906 - September 14, 1999)
 
