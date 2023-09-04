@@ -184,7 +184,7 @@ article {
     max-width: 100%;
     display: block;
     margin: .5em auto; }
-  article .post .img-inline-h360 {
+  article .img-inline-h360 {
     display: inline;
     height: 300px;}
   article .comment {
