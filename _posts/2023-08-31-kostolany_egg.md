@@ -201,9 +201,8 @@ stock trading and the general enthusiasm for stocks
 
   이때는 소신파 투자자만 거래를 하며 저렴한 가격에 주식을 매집하는 상태입니다.
 
----
 
-![egg_1](/assets/2023-08-31-kostolany_egg/kostolany_egg__egg_1.png){:class="img-inline-h300"}![egg_2](/assets/2023-08-31-kostolany_egg/kostolany_egg__egg_2.png){:class="img-inline-h300"}
+![egg_1](/assets/2023-08-31-kostolany_egg/kostolany_egg__egg_1.png){:class="img-inline-h280"}![egg_2](/assets/2023-08-31-kostolany_egg/kostolany_egg__egg_2.png){:class="img-inline-h280"}
 
   x
    a
