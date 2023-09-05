@@ -187,6 +187,9 @@ article {
   article .post .img-inline-h280 {
     display: inline;
     height: 280px; }
+  article .post .img-inline-h380 {
+    display: inline;
+    height: 380px; }
   article .comment {
     margin: 3em 0; }
   article .divider {
