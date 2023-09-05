@@ -21,6 +21,10 @@ tags:
 
 명목금리(nominal interest rate) = 실질금리(real interest rate) + 기대인플레이션율(expected inflation)
 
+### real interest rate
+
+실질금리(real interest rate)
+
 ### MMF
 
 MMF(money market funds) 는 ... 을 가르킨다.

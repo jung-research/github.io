@@ -36,8 +36,12 @@ TODO: 실물경기정의 및 좋고 나쁨의 판단기준 방법 수치화와 �
 
 ### economic stimulus
 
-경기부양(economic stimulus), TODO: 경기부양 에 대해 예시, 대응되는 작용, 부작용에 대해 note
+경기부양(economic stimulus)이란, 정부와 중앙은행이 각종 정책을 경기부양책이라고 한다
 
+경기부양책은 크게 봐서 [통화정책(monetary policy)](/2023/08/23/economics.html#monetary-policy) 과
+[재정정책(fiscal policy)](/2023/08/23/economics.html#fiscal-policy) 으로 나눌 수 있다
+
+### 주가 평가 기준?
 
 ### 国内有 CMA / MMF 这个东西么??
 
