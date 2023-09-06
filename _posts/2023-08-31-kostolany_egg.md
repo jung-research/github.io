@@ -221,6 +221,10 @@ A국면부터 F국면까지
   TODO: 원 달걀모형에는 주식, 부동산, 예금, 채권으로 분류되여 있지 않지만, 금리에 등락에 상관되는 접근성이 좋은 투자대상의 가라타기로 설명했다
 
 
+![index](/assets/2023-08-31-kostolany_egg/kostolany_egg__stock_index.png)
+
+인덱스와 금리관계표.
+
 ![cycle](/assets/2023-08-31-kostolany_egg/economic_cycle.jpg){:height="360px"}
 
 
